@@ -1,0 +1,15 @@
+body {
+  background-image: url("images/kon.jpg");
+ font-size: 20px;
+}
+a {
+color: green;
+}
+img {
+width:250;
+border: 5px dotted blue;
+border-radius: 50px;
+}
+a:hover {
+   color: red;
+}
